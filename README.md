@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chitrak07
-- 👀 I’m interested in Data Science
--     Kaggle Profile - https://www.kaggle.com/shubhamkumarvaish
+- 👀 I’m interested in Data Science Kaggle Profile - 
+           https://www.kaggle.com/shubhamkumarvaish
 - 📫 How to reach me - https://www.linkedin.com/in/shubham-vaish-8b2a83224/
 
 <!---
