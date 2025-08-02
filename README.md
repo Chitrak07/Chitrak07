@@ -96,9 +96,6 @@
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br>TensorFlow
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=keras" width="48" /><br>Keras
-    </td>
   </tr>
   <tr>
     <td align="center" width="140">
