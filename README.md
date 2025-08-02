@@ -11,7 +11,6 @@
 
 <h3 align="center">A Passionate Full Stack Developer & ML Enthusiast from India</h3>
 
-<h3 align="center">Skills</h3>
 
 <h2 align="center">⚡ My Tech Stack</h2>
 
