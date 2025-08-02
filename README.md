@@ -13,9 +13,32 @@
 
 <h3 align="center">Skills</h3>
 
+<h2 align="center">⚡ My Tech Stack</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+DSA+Lover;Spring+Boot+%7C+Java+%7C+PostgreSQL;Learning+and+Building+Awesome+Stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Languages+%26+Frameworks+I+Use+Often" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css" />
+  <br/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,tailwind,flask" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=maven,git,github,vscode,eclipse,postman" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <br/>
+  <!-- ML/DS -->
+  <img src="https://skillicons.dev/icons?i=keras,tensorflow,pandas,numpy,scikit-learn" />
+  <br/>
+  <!-- Cloud/Deployment -->
+  <img src="https://skillicons.dev/icons?i=aws,netlify,vercel" />
+</p>
+
 
 ---
 
