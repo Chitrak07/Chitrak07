@@ -118,26 +118,6 @@
 </table>
 
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,js,html,css,py,tensorflow,git,github,linux,vscode,mysql,bootstrap" />
-</p>
-
----
-
-## 🧠 Skills
-
-- 💻 Java, Python, JavaScript
-- ⚙️ Spring Boot, REST API, Microservices
-- 🧠 Machine Learning, Data Analysis
-- 📊 Data Structures and Algorithms (DSA)
-- 🛢️ PostgreSQL, MySQL
-- 🌐 Angular, HTML/CSS, Bootstrap
-- ☁️ Basics of AWS & Cloud Computing
-- 🧰 Git, GitHub, CI/CD
-
----
 
 ## 🚀 Featured Projects
 
