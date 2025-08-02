@@ -178,4 +178,4 @@
   <img src="https://komarev.com/ghpvc/?username=Chitrak07&label=Profile+Views&color=0e75b6&style=flat" alt="Chitrak07" />
 </p>
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" /><br>Angular
