@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chitrak Vaish</h1>
+<h1 align="center">Hi 👋, I'm Shubham Vaish</h1>
 <h3 align="center">Full Stack Developer | Java | Spring Boot | ML & Data Science Enthusiast</h3>
 
 <p align="center">
