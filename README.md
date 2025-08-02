@@ -92,15 +92,14 @@
 - 👀 I’m interested in **Data Science** & **Machine Learning**
 - 📘 Kaggle: [kaggle.com/shubhamkumarvaish](https://www.kaggle.com/shubhamkumarvaish)
 - 📫 LinkedIn: [linkedin.com/in/shubham-vaish-8b2a83224](https://www.linkedin.com/in/shubham-vaish-8b2a83224/)
-- 📧 Email: [chitrakvaishnav@gmail.com](mailto:chitrakvaishnav@gmail.com)
+- 📧 Email: [chitrakvaishnav@gmail.com](mailto:vaishshubham07@gmail.com)
 
 ---
 
 ### 🧩 DSA Profiles
 
 - 🔗 [LeetCode](https://leetcode.com/Chitrak07)
-- 🔗 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Chitrak07)
-- 🔗 [Codeforces](https://codeforces.com/profile/Chitrak07) *(if available)*
+- 🔗 [Codeforces](https://codeforces.com/profile/Chitrak07)
 
 ---
 
