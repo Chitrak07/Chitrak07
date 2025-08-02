@@ -16,9 +16,8 @@
 
 - 👨‍💻 I’m currently working as a Software Engineer at **Accenture**
 - 🔭 I’m interested in **Data Science, ML, Backend Development**, and **Cloud**
-- 💻 I enjoy solving DSA problems and building full-stack apps
-- 📚 I’m preparing for **CAT & UPSC 2025**
-- 🌱 I’m currently learning **Advanced Spring Boot**, **Microservices**, and **AWS**
+- 💻 I enjoy solving DSA problems and building full-stack apps*
+- 🌱 I’m currently learning **Spring Boot**, **Microservices**, and **AWS**
 - 🏆 Kaggle: [My Profile](https://www.kaggle.com/shubhamkumarvaish)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shubham-vaish-8b2a83224/)
 
