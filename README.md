@@ -11,6 +11,8 @@
 
 <h3 align="center">A Passionate Full Stack Developer & ML Enthusiast from India</h3>
 
+<h3 align="center">Skills</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+DSA+Lover;Spring+Boot+%7C+Java+%7C+PostgreSQL;Learning+and+Building+Awesome+Stuff!" alt="Typing SVG" />
 </p>
