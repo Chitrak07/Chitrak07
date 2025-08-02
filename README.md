@@ -88,7 +88,7 @@
 ## 📚 DSA & Coding Platforms
 
 - 💻 [LeetCode](https://leetcode.com/Chitrak07/)
-- 💼 [Kaggle](https://www.kaggle.com/Chitrak07)
+- 💼 [Kaggle](https://www.kaggle.com/shubhamkumarvaish)
 
 ## 📫 Contact Me
 
