@@ -8,8 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=37FF8B&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;DSA+Practitioner" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham Vaish</h1>
-<h3 align="center">A Passionate Full Stack Developer & ML Enthusiast from India</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00f7ff&center=true&vCenter=true&width=600&lines=A+Passionate+Full+Stack+Developer+%26+ML+Enthusiast+from+India;Loves+building+real-world+projects;Always+learning+new+things+%F0%9F%92%AD" alt="Typing Animation">
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+DSA+Lover;Spring+Boot+%7C+Java+%7C+PostgreSQL;Learning+and+Building+Awesome+Stuff!" alt="Typing SVG" />
