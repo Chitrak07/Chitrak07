@@ -1,63 +1,87 @@
-# 👋 Hi, I'm Shubham Vaish!
+<!-- Profile README for Shubham Vaish -->
 
-A passionate **Java Backend Developer** and aspiring **Full Stack Engineer** with interests in **Machine Learning**, **Data Science**, and **Competitive Programming**.
+<h1 align="center">Hi 👋, I'm Shubham Vaish</h1>
+<h3 align="center">A Passionate Full Stack Developer & ML Enthusiast from India</h3>
 
-- 🎯 Currently working as an Associate Software Engineer at **Accenture**
-- 🧠 Learning Full Stack Development (Java + Spring Boot + Angular)
-- 📊 Interested in Data Science, ML projects, and DSA problem solving
-- 👀 I’m active on Kaggle: [My Kaggle Profile](https://www.kaggle.com/shubhamkumarvaish)
-- ✍️ Practicing DSA: [LeetCode](https://leetcode.com/shubhamvaish07/) | [GFG](https://auth.geeksforgeeks.org/user/shubhamvaish07/practice/)
-
----
-
-## 🛠️ Tech Stack & Skills
-
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=flat&logo=python&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%23007ACC.svg?style=flat&logo=codingame&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+DSA+Lover;Spring+Boot+%7C+Java+%7C+PostgreSQL;Learning+and+Building+Awesome+Stuff!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Projects I've Worked On
+## 📌 About Me
 
-### 🌿 Machine Learning & Data Science
-
-1. 🩺 **Plant Pathology – Disease Detection using CNN**
-   - ML Internship Project using TensorFlow & image processing
-   - 🔗 [View Project](https://github.com/Chitrak07/PlantPathology)
-
-2. 💸 **Payment Date Prediction**
-   - Implemented multiple ML algorithms to predict customer payment delays
-   - 🔗 [View Project](https://github.com/Chitrak07/payment-date)
-
-3. 📈 **Black Friday Sales Analysis**
-   - EDA and ML on Black Friday customer sales dataset
-   - 🔗 [View Project](https://github.com/Chitrak07/Black-Friday)
-
-4. 🍽️ **Zomato Dataset Analysis**
-   - Cleaned and visualized Zomato data for insights
-   - 🔗 [View Project](https://github.com/Chitrak07/Zomato-DataSet-Analysis)
-
-5. 🏡 **House Prices - Advanced Regression Techniques**
-   - Used advanced regression models to predict housing prices
-   - 🔗 [View Project](https://github.com/Chitrak07/House-Prices---Advanced-Regression-Techniques)
+- 👨‍💻 I’m currently working as a Software Engineer at **Accenture**
+- 🔭 I’m interested in **Data Science, ML, Backend Development**, and **Cloud**
+- 💻 I enjoy solving DSA problems and building full-stack apps
+- 📚 I’m preparing for **CAT & UPSC 2025**
+- 🌱 I’m currently learning **Advanced Spring Boot**, **Microservices**, and **AWS**
+- 🏆 Kaggle: [My Profile](https://www.kaggle.com/shubhamkumarvaish)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shubham-vaish-8b2a83224/)
 
 ---
 
-### 🧑‍💻 Full Stack Projects
+## 🛠️ Tech Stack & Tools
 
-1. 🧑‍💼 **HR Admin Dashboard** (Internship Project)
-   - Built using JavaScript and JSONPowerDB
-   - CRUD operations for employee and admin panel
-   - 🔗 [View Project](https://github.com/Chitrak07/Login2exploreInternship/tree/main/HRAdminDashboard)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,js,html,css,py,tensorflow,git,github,linux,vscode,mysql,bootstrap" />
+</p>
+
+---
+
+## 🧠 Skills
+
+- 💻 Java, Python, JavaScript
+- ⚙️ Spring Boot, REST API, Microservices
+- 🧠 Machine Learning, Data Analysis
+- 📊 Data Structures and Algorithms (DSA)
+- 🛢️ PostgreSQL, MySQL
+- 🌐 Angular, HTML/CSS, Bootstrap
+- ☁️ Basics of AWS & Cloud Computing
+- 🧰 Git, GitHub, CI/CD
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 Machine Learning Projects
+| Project | Description |
+|--------|-------------|
+| [Plant Pathology 🌱](https://github.com/Chitrak07/PlantPathology) | Internship ML Project to classify leaf diseases |
+| [Payment Date Prediction 📅](https://github.com/Chitrak07/payment-date) | Predicted invoice payment dates using multiple ML models |
+| [House Prices Prediction 🏠](https://github.com/Chitrak07/House-Prices---Advanced-Regression-Techniques) | Applied regression models to predict house prices |
+
+### 📊 Data Analysis
+| Project | Description |
+|--------|-------------|
+| [Black Friday Sales](https://github.com/Chitrak07/Black-Friday) | Explored customer trends and purchase patterns |
+| [Zomato Dataset Analysis](https://github.com/Chitrak07/Zomato-DataSet-Analysis) | Data wrangling and EDA on restaurant data |
+
+### 🌐 Full Stack Project
+| Project | Description |
+|--------|-------------|
+| [HR Admin Dashboard](https://github.com/Chitrak07/Login2exploreInternship/tree/main/HRAdminDashboard) | Built with JavaScript & JSONPowerDB during internship |
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chitrak07&theme=radical&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chitrak07&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitrak07&layout=compact&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chitrak07&theme=radical" width="60%"/>
+</p>
 
 ---
 
@@ -66,29 +90,16 @@ A passionate **Java Backend Developer** and aspiring **Full Stack Engineer** wit
 - 💻 [LeetCode](https://leetcode.com/Chitrak07/)
 - 💼 [Kaggle](https://www.kaggle.com/Chitrak07)
 
----
-
-## 📊 GitHub Stats
-
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chitrak07&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitrak07&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Chitrak07&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chitrak07&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [vaishshubham07@gmail.com](mailto:vaishshubham07@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/shubham-vaish-8b2a83224](https://www.linkedin.com/in/shubham-vaish-8b2a83224/)
-- 🧑‍💻 Portfolio Site (coming soon...)
+- 💼 LinkedIn: [Shubham Vaish](https://www.linkedin.com/in/shubham-vaish-8b2a83224/)
+- 🧠 Kaggle: [kaggle.com/shubhamkumarvaish](https://www.kaggle.com/shubhamkumarvaish)
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chitrak07.Chitrak07)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chitrak07&label=Profile+Views&color=0e75b6&style=flat" alt="Chitrak07" />
+</p>
+
 
