@@ -1,6 +1,12 @@
 <!-- Profile README for Shubham Vaish -->
 
 <h1 align="center">Hi 👋, I'm Shubham Vaish</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=37FF8B&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;DSA+Practitioner" alt="Typing SVG" />
+</p>
+
+
+<h1 align="center">Hi 👋, I'm Shubham Vaish</h1>
 <h3 align="center">A Passionate Full Stack Developer & ML Enthusiast from India</h3>
 
 <p align="center">
