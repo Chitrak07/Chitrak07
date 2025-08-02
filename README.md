@@ -12,35 +12,6 @@
 <h3 align="center">A Passionate Full Stack Developer & ML Enthusiast from India</h3>
 
 
-<h2 align="center">⚡ My Tech Stack</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Languages+%26+Frameworks+I+Use+Often" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css" />
-  <br/>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,tailwind,flask" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=maven,git,github,vscode,eclipse,postman" />
-  <br/>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <br/>
-  <!-- ML/DS -->
-  <img src="https://skillicons.dev/icons?i=keras,tensorflow,pandas,numpy,scikit-learn" />
-  <br/>
-  <!-- Cloud/Deployment -->
-  <img src="https://skillicons.dev/icons?i=aws,netlify,vercel" />
-</p>
-
-
----
-
 ## 📌 About Me
 
 - 👨‍💻 I’m currently working as a Software Engineer at **Accenture**
@@ -52,6 +23,100 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shubham-vaish-8b2a83224/)
 
 ---
+
+<h2 align="center">⚡ My Tech Stack</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Languages+%7C+Frameworks+%7C+Tools+%7C+ML+%7C+Databases+%7C+Cloud" alt="Typing SVG" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" /><br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" /><br>Spring Boot
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=react" width="48" /><br>React
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" /><br>Flask
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /><br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br>Tailwind CSS
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=maven" width="48" /><br>Maven
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=github" width="48" /><br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" /><br>VS Code
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=eclipse" width="48" /><br>Eclipse
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" /><br>Postman
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" /><br>PostgreSQL
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br>TensorFlow
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=keras" width="48" /><br>Keras
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=pandas" width="48" /><br>Pandas
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=numpy" width="48" /><br>NumPy
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=scikitlearn" width="48" /><br>Scikit-Learn
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" /><br>AWS
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠️ Tech Stack & Tools
 
