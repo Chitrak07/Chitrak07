@@ -49,7 +49,7 @@
       <img src="https://skillicons.dev/icons?i=spring" width="48" /><br>Spring Boot
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=react" width="48" /><br>Angular
+      <img src="https://skillicons.dev/icons?i=angular" width="48" /><br>Angular
     </td>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=flask" width="48" /><br>Flask
