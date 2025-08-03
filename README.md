@@ -152,10 +152,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitrak07&layout=compact&theme=radical" width="48%"/>
 </p>
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chitrak07&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitrak07&layout=compact&theme=radical)
-
 
 
 <p align="center">
