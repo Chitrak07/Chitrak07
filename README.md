@@ -152,6 +152,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitrak07&layout=compact&theme=radical" width="48%"/>
 </p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chitrak07&theme=radical)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitrak07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <p align="center">
