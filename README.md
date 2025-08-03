@@ -22,6 +22,19 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shubham-vaish-8b2a83224/)
 
 ---
+### 🚀 CartCraft – Full‑Stack E‑Commerce Project
+
+**CartCraft** demonstrates an end‑to‑end eCommerce workflow using **Angular** for frontend and **Spring Boot** with **PostgreSQL** on the backend.
+
+**Key Highlights:**
+- Responsive UI with Angular and Bootstrap
+- Cart operations (add/update/remove), checkout simulation
+- Spring Boot REST APIs + local storage support
+- Form validation and product CRUD logic
+
+![Cart Preview](https://user-images.githubusercontent.com/your-screenshot-link)
+[Explore on GitHub →](https://github.com/Chitrak07/cartcraft)
+
 
 <h2 align="center">⚡ My Tech Stack</h2>
 
