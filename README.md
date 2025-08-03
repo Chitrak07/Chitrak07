@@ -156,6 +156,7 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitrak07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitrak07&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
